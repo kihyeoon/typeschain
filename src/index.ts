@@ -1,1 +1,1 @@
-const hello = () => "hi";
+document.querySelector;
